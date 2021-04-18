@@ -1,0 +1,6 @@
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/bin/Debug/Lab3Block2TeamProject.exe
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/bin/Debug/Lab3Block2TeamProject.pdb
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/obj/Debug/Lab3Block2TeamProject.csprojAssemblyReference.cache
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/obj/Debug/Lab3Block2TeamProject.csproj.CoreCompileInputs.cache
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/obj/Debug/Lab3Block2TeamProject.exe
+/Users/strawberry/Projects/Lab3Block2TeamProject/Lab3Block2TeamProject/obj/Debug/Lab3Block2TeamProject.pdb
