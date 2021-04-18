@@ -19,7 +19,21 @@ namespace Laba3Block2
                 "Стипендія: {8}",
                 student.surName, student.firstName, student.patronymic, student.sex, student.dateOfBirth,
                 student.mathematicsMark, student.physicsMark, student.informaticsMark, student.scholarship, studsNum);
-        }       
+        }
+
+        //Середній бал кожного студента особисто
+        public static int[] CulcGPA(Student[] studs)
+        {
+            int[] GPA = new int[studs.Length];
+            for (int i = 0; i < GPA.Length; i++)
+                GPA[i] = (CharToIntConverter(studs[i].mathematicsMark)
+                    + CharToIntConverter(studs[i].physicsMark)
+                    + CharToIntConverter(studs[i].informaticsMark)) / 3;
+
+            return GPA;
+        }
+
+        
         }
     }
 }
