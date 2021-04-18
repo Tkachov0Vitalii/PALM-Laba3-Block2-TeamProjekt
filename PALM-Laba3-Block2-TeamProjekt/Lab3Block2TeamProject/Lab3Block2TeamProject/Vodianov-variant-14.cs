@@ -33,7 +33,17 @@ namespace Laba3Block2
             return GPA;
         }
 
-        
+        //Конвертує числа від 0 до 9 з типу char в тип int
+        public static int CharToIntConverter(char a)
+        {
+            if (a == '-')
+                a = '2';
+
+            int b = a - '0';
+            return b;
+        }
+
+       
         }
     }
 }
